@@ -1,1 +1,3 @@
-a = 1
+import numpy as np
+
+print(np.ones((10, 3)))
